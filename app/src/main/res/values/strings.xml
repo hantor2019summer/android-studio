@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">AirPurifier_test</string>
+=======
+    <string name="app_name">as</string>
+    <string name="action_settings">Settings</string>
+>>>>>>> b8d735f7cf05f02eebcae237bb8df943b084d87c
 </resources>
